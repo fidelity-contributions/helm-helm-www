@@ -36,6 +36,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/types": "3.9.2",
+    "baseline-browser-mapping": "^2.10.21",
     "jsdom": "^27.0.1"
   },
   "browserslist": {
